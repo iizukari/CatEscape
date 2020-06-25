@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6DD6A6FF-9664-2BEB-A923-41918087432D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameDirector.cs">
+    <Files>
+      <File FileName="Assets/PlayerController.cs" Line="24" Column="27" />
+      <File FileName="Assets/ArrowController.cs" />
+      <File FileName="Assets/ArrowGenerator.cs" />
+      <File FileName="Assets/GameDirector.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CatEscape" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameDirector.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e6e270d1-f9ec-4584-9e97-1518b95548cb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
